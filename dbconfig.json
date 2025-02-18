@@ -1,0 +1,10 @@
+{
+    "server": "",
+    "user": "",
+    "password": "",
+    "database": "",
+    "options": {
+        "encrypt": true,
+        "trustServerCertificate": true
+    }
+}

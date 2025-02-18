@@ -1,0 +1,62 @@
+[
+	{
+		"alternatives": [
+			{
+				"transcript": "Dobrý den",
+				"confidence": 0.89526117
+			}
+		],
+		"resultEndTime": "3.810s",
+		"languageCode": "cs-cz"
+	},
+	{
+		"alternatives": [
+			{
+				"transcript": " Dobrý den tady Milan Soukup haló. Slyšíme se Haló haló.",
+				"confidence": 0.9511498
+			}
+		],
+		"resultEndTime": "14.410s",
+		"languageCode": "cs-cz"
+	},
+	{
+		"alternatives": [
+			{
+				"transcript": " Haló. Slyšíme se",
+				"confidence": 0.9511497
+			}
+		],
+		"resultEndTime": "17.750s",
+		"languageCode": "cs-cz"
+	},
+	{
+		"alternatives": [
+			{
+				"transcript": " já pak Neslyším haló",
+				"confidence": 0.47699913
+			}
+		],
+		"resultEndTime": "22.060s",
+		"languageCode": "cs-cz"
+	},
+	{
+		"alternatives": [
+			{
+				"transcript": " haló",
+				"confidence": 0.9511497
+			}
+		],
+		"resultEndTime": "25.680s",
+		"languageCode": "cs-cz"
+	},
+	{
+		"alternatives": [
+			{
+				"transcript": " Haló, je tam někdo?",
+				"confidence": 0.9511497
+			}
+		],
+		"resultEndTime": "33.770s",
+		"languageCode": "cs-cz"
+	}
+]

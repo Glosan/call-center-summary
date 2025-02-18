@@ -1,0 +1,30 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./src",
+		"esModuleInterop": true,
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"forceConsistentCasingInFileNames": true,
+		"lib": [
+			"ESNext",
+			"dom",
+			"es6"
+		],
+		"module": "ESNext",
+		"moduleResolution": "Bundler",
+		"paths": {
+			"~/*": [
+				"*"
+			]
+		},
+		"skipLibCheck": true,
+		"strict": true,
+		"target": "ESNext",
+		"types": [
+			"node"
+		]
+	},
+	"include": [
+		"./src/**/*"
+	]
+}
